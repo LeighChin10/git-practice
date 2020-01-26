@@ -1,0 +1,19 @@
+nav a {
+    color: black;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color:black;
+    text-decoration: underline;
+    font-size: 100px;
+}
+
+.nav {
+    margin-top: 20px;
+    margin-left: 15px;
+    display:flex;
+    margin: 15px 20px 0 15px;
+    justify-content:space-between
+}
